@@ -12,6 +12,6 @@ Uso:
 
 5.- Ejecutar comando `>node server.js` en la ruta del fichero `server.js`.
 
-6.- Abrir `>localhost:8000` o por la ip del servidor sobre el q se esté ejecutando este programa `192.168.0.XXX`.
+6.- Abrir `>localhost:8000` o por la ip del servidor sobre el q se esté ejecutando este programa `192.168.XXX.XXX`.
 
 7.- Quien tenga esta hierramienta o script de nodejs o no, no necesito dinero ni fama, puede copiar mi código x si le sirve de distracción, tampoco incluye anuncios.
